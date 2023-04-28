@@ -1,0 +1,3 @@
+1. genetic_painting.py and genetic_painting.ipynb are same code. And these are the main code.
+2. FirstAttempt.ipynb is the code to build for our initial proposal.
+
